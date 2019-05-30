@@ -1,18 +1,34 @@
- 
+
  p {
-    font-family: 'Play', sans-serif;
-}
-      
-li{
+    font-family: 'Roboto Slab';
+    font-size: 15px;
+ }
+
+li {
    display: inline; 
    font-size: 15px;
-}
+   margin: 15px;
+ }
 
-h3{
+ h2 {
+font-size: 20px;
+ background-color: white;
+ padding: 10px;
+   }
+
+ h3 {
  color: whitesmoke;
- padding: 50px;
+ padding: 25px;
  background-color: lightblue;
  width: 50%;
+ }
+
+ h4{
+    font-family:'Coustard';
+ }
+
+ h5{
+   font-family: 'Roboto Slab';
  }
 
  img{
@@ -21,20 +37,18 @@ h3{
     }
 
  hr {
-        border-width: 10px;
-        color: brown;
-    }
-
-    h2 {
-     font-size: 20px;
-    background-color: white;
-        
-    }
+    border-width: 10px;
+    color: brown;
+   }
+   
     ul {
         background-color: white;
-        font-family: Arial, Helvetica, sans-serif;
+        font-family: 'Play', sans-serif;
         font-size: 15px;
     }
+
+
+    
 
 
 
