@@ -12,19 +12,14 @@ li {
 
  h2 {
 font-size: 20px;
- background-color: white;
  padding: 10px;
+ margin: 25px;
    }
 
- /* h3 {
- color: whitesmoke;
- padding: 25px;
- background-color: lightblue;
- width: 50%; */
- }
-
- h4{
+h4{
     font-family:'Coustard';
+    margin: 10px;
+    
  }
 
  h5{
@@ -42,14 +37,15 @@ font-size: 20px;
    }
    
     ul {
-        background-color: white;
+        /* background-color: white; */
         font-family: 'Play', sans-serif;
         font-size: 15px;
     }
 
     li, ul {
        padding: 5px;
-       background-color: whitesmoke;
+       font-weight: bold;
+       /* background-color: whitesmoke; */
     }
 
 
